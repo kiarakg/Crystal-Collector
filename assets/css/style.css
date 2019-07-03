@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url(https://static1.squarespace.com/static/589b71d3893fc0e87776b388/t/5b91987703ce64e52c368322/1536268432908/crystal+background.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;   
+  }
+
+  #name {
+    background: rgb(7, 134, 117);
+    color:white;
+    width:300px;
+    height:60px;
+    font-size:35px;
+    text-align:center;
+    margin:20px 20px;
+    padding:10px;
+  }
