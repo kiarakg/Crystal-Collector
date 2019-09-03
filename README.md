@@ -1,6 +1,6 @@
-# Unit-4-Game: Cystal Collector
+# Crystal Collector
 
-https://kiarakg.github.io/unit-4-game/
+https://kiarakg.github.io/Crystal-Collector/
 
 ## Description
 You will be given a random number at the start of the game.
