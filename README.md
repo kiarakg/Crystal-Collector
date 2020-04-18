@@ -1,7 +1,5 @@
 # Crystal Collector
 
-https://kiarakg.github.io/Crystal-Collector/
-
 ## Description
 You will be given a random number at the start of the game.
 
@@ -14,6 +12,10 @@ The value of each crystal is hidden from you until you click on it.
 The values of each crystal changes every new game, and a new random number will appear.
 
 Good Luck!
+
+## [Crystal Collector App](https://kiarakg.github.io/Crystal-Collector/)
+
+![pic](/assets/images/CrystalCollector.png)
 
 ## Built With:
 * HTML
